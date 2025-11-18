@@ -20,3 +20,5 @@ __pycache__/
 
 # Системные файлы
 .DS_Store  # macOS 
+
+tmp_data.txt
